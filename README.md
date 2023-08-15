@@ -18,96 +18,153 @@ I'm Rakibul Islam, a Frontend Developer from <img src="assets/bangladesh.png" wi
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-### Tutorials
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+- 🔭 I’m currently working on [Templatecookie](https://github.com/templatecookie)
 
-### My Projects & Ventures
+- 🌱 I’m currently learning **TALL Stack, Filament & TDD**
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Responses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>100K+ active learners</td>
-    </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>15K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
-  </tbody>
+- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co)
+- 💪 My wakatime profile  [https://wakatime.com/@devboyarif](https://wakatime.com/@devboyarif) 
+
+
+- 📫 How to reach me **devboyarif@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>   
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      </a>
+      <br>Nuxt JS
+    </td>      
+  </tr>
+  
+  <tr>
+     <td align="center" width="96">
+      <a href="#nuxtjs" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+                alt="livewire" />
+        </a>
+        <br>Livewire
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+                height="48" alt="alpinejs" />
+        </a>
+        <br>Alpine JS
+    </td>   
+  </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+     <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean
+    </td>
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Postman
+    </td>
+      <td align="center" width="96">
+      <a href="#vuepress" >
+        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>VuePress
+    </td>
+  </tr>
 </table>
 
-### 📺 &emsp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [My favorite 10 Content Creators in Bangladesh](https://www.youtube.com/watch?v=foS4RnUzCxk)
-- [যে দশটি কারণে চাকরি পেয়েও ফ্রেশাররা ঝরে যায়](https://www.youtube.com/watch?v=ThOGtDDHTMQ)
-- [Full Stack Engineering - Develop Yourself to be a Developer - Sumit Saha at CSE Club of JUST](https://www.youtube.com/watch?v=-JoO7A6gxyc)
-- [Tricky Interview Questions in JavaScript: Understanding Closure, Async-Await, and Scope](https://www.youtube.com/watch?v=qSD74GKrNaA)
-- [কন্টেন্ট ক্রিয়েশন এবং আমাদের দৃষ্টিভঙ্গি](https://www.youtube.com/watch?v=GJfIp34o_dQ)
-<!-- YOUTUBE:END -->
-
-#### Business
-
-:email: &emsp;sayhitorainmaker@gmail.com
-<br >
-:email: &emsp;sumit@learnwithsumit.com
-<br >
-:email: &emsp;sumit@analyzenbd.com
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
-
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
-
-#### What is Learn with Sumit?
-
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
-
-#### Github Stats
-
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+---
+<details> 
+  <summary> ✌️ My GitHub Analytics </summary>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
+<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
 </details>
