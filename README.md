@@ -1,5 +1,3 @@
-![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co/ys1nR1Z/akm-sakil-sagor-github-cover-image.png)
-<br>
 ### Hi there 👋, I’m Rakibul Islam
 #### Front-end Developer 
 <br>
